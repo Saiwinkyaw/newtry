@@ -1,0 +1,41 @@
+nav {
+    display: flex;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    padding: 20px;
+    list-style: none;
+}
+
+#test {
+    width: 50%;
+    padding-top: 30px;
+}
+
+body {
+    color: green;
+    background-color: white;
+	margin: 20px;
+}
+
+h2 {
+    text-transform: capitalize;
+    font-weight: 800;
+}
+
+.btn {
+    padding: 5px;
+    border-radius: 15px;
+    color: green;
+    background-color: white;
+    margin-top: 25px;
+}
+
+h1 {
+    padding-right: 20vw;
+	font-size: 50px
+}
